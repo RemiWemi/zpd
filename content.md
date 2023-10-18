@@ -1,7 +1,10 @@
 ## izveidot number guessing speli ar python programmesanas valodu
 
-## Saturs
-## 1. aprakstit speli
+## dokumenta saturs
+
+## 1. speles apraksts
+jautra spele kas attista logiku
+
 ## 2. speles logika
 
 dja nejausi genere skaitli no 1 lidz 100 . talak piedava uzminet skaitli
